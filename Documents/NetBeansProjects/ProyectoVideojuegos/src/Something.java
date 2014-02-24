@@ -11,8 +11,10 @@
 public class Something {
 
     private int potato = 5;
-
-    public static void main() {
+    /**
+     * Main. 
+     */
+    public static void main(String args[]) {
         System.out.println("Something");
         //OLITOS COMO ESTAS
     }
