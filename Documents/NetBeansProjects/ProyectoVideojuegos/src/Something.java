@@ -10,6 +10,8 @@
  */
 public class Something {
 
+    private int potato = 5;
+
     public static void main() {
         System.out.println("Something");
         //OLITOS COMO ESTAS
