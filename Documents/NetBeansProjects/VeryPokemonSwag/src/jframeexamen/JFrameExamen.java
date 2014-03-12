@@ -16,6 +16,7 @@ import java.net.URL;
 import java.util.LinkedList;
 import java.util.Random;
 
+
 public class JFrameExamen extends JFrame implements Runnable, KeyListener, MouseListener, MouseMotionListener {
 
     private static final long serialVersionUID = 1L;
